@@ -1,2 +1,3 @@
-# exercicio-git"Contribui‡Æo do Matheus" 
-"Contribui‡Æo do Matheus" 
+# exercicio-git"Contribuiï¿½ï¿½o do Matheus" 
+"Contribuiï¿½ï¿½o do Matheus" 
+"ContribuiÃ§Ã£o de Erick"
